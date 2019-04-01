@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Nucleo",
+        "url": "https://nucleoapp.com/",
+        "type": ["application", "icons", "library"]
+    },
+    {
+        "title": "Feather Icons",
+        "url": "https://feathericons.com/",
+        "type": ["icons", "set", "font"]
+    },
+    {
+        "title": "Unicons",
+        "url": "https://iconscout.com/unicons",
+        "type": ["icons", "set", "font"]
+    },
+    {
+        "title": "Sheety",
+        "url": "https://sheety.co",
+        "type": ["api", "excel", "Google sheet"]
+    },
+    {
+        "title": "Manypixels Gallery",
+        "url": "https://gallery.manypixels.co",
+        "type": ["illustrations"]
+    },
+    {
+        "title": "Undraw Illustrations",
+        "url": "https://undraw.co/illustrations/",
+        "type": ["illustrations"]
+    },
+    {
+        "title": "Dragula",
+        "url": "https://dragula.teamxenox.com",
+        "type": ["stock", "photos"]
+    },
+    {
+        "title": "Vuetify",
+        "url": "https://vuetifyjs.com",
+        "type": ["framework", "javascript"],
+        "tags": ["vue","bootstrap","html","css","javascript","material-design"]
+    }
+]
